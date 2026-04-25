@@ -1,0 +1,18 @@
+title: "Your GitHub Blog"
+description: "A blog powered by Just the Docs"
+remote_theme: just-the-docs/just-the-docs
+
+# Just the Docs configuration
+# See: https://just-the-docs.github.io/just-the-docs/docs/configuration/
+
+# Enable or disable the site search
+search_enabled: true
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Footer content
+footer_content: "Copyright &copy; 2026 Your Name. Powered by [Just the Docs](https://just-the-docs.github.io/just-the-docs/)."
+
+# Color scheme
+color_scheme: light
